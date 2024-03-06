@@ -1,1 +1,1 @@
-My own bussisnes web site, developed using HTML
+My own business website, developed using HTML
